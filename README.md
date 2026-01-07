@@ -1,4 +1,4 @@
-#🎮 Tic Tac Toe 15x15 (Gomoku) – HoangLong
+##🎮 Tic Tac Toe 15x15 (Gomoku) – HoangLong
 
 A feature-rich 15x15 Tic Tac Toe (Gomoku) game built with Python and Pygame, featuring AI opponents, LAN multiplayer, achievements, and a leaderboard.
 This project was created as a learning exercise for game development, AI algorithms, and basic networking.
@@ -32,7 +32,7 @@ Pygame
 ▶️ How to Run
 python main.py
 
-#🎮 Game Modes
+##🎮 Game Modes
 🧑‍🤝‍🧑 Local 2 Player
 
 Two players take turns on the same computer.
