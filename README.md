@@ -108,5 +108,5 @@ Classic Gomoku rules
 Minimax algorithm references
 
 Download game here :
-https://hoanglonggg.itch.io/tic-tac-toe-caro-game-hoanglong
+https://hoanglonggg.itch.io/tic-tac-toe-caro-game-hoanglong / 
 https://archive.org/details/tic-tac-toe-hoang-long
